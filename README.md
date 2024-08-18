@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Anamika
 
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specializing in web and mobile apps. I love turning ideas into reality through code and constantly learning new technologies. Here’s a bit more about me:
 
 ---
@@ -25,6 +27,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specializing
 ---
 
 ### 🌱 Currently Learning
+![Learning GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 - Advanced TypeScript
 - Cloud Native Development with Kubernetes
@@ -32,19 +35,13 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specializing
 
 ---
 
-### 💼 Projects
-
-- **[SheHacks](https://github.com/yourusername/SheHacks):** A platform for women in STEM, providing resources and opportunities.
-- **[Cramming by Arlarse](https://github.com/yourusername/Cramming-by-Arlarse):** A blog website focused on coding and learning, developed with Next.js.
-- **[InvestApp for Banks and Capital Groups](https://github.com/yourusername/InvestApp):** A comprehensive solution for financial management in capital groups.
-
----
-
 ### 🌐 Let's Connect
+
+![Connect GIF](https://media.giphy.com/media/26FPqUt4uAjUPmiyY/giphy.gif)
 
 - **LinkedIn:** [Anamika Mallick](https://www.linkedin.com/in/anamika-mallick-317a67201/)
 - **Twitter:** [@isthatyouana](https://x.com/isthatyouana)
-- **leetcode:** [https://leetcode.com/](https://leetcode.com/u/ana/)
+- **leetcode:** [Ana](https://leetcode.com/u/ana/)
 
 ---
 
@@ -61,4 +58,4 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer specializing
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my repositories and let's build something amazing together! 😊
+Thank you for visiting my profile! ![Handshake GIF](https://media.giphy.com/media/3og0IFrHkIglEOg8Ba/giphy.gif) Feel free to check out my repositories and let's build something amazing together! 😊
